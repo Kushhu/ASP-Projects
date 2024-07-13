@@ -1,0 +1,7 @@
+D:\Microsoft Visual Studio\VS Projects\xipra 1.7\xipra 1.7\bin\xipra 1.7.dll.config
+D:\Microsoft Visual Studio\VS Projects\xipra 1.7\xipra 1.7\bin\xipra 1.7.dll
+D:\Microsoft Visual Studio\VS Projects\xipra 1.7\xipra 1.7\bin\xipra 1.7.pdb
+D:\Microsoft Visual Studio\VS Projects\xipra 1.7\xipra 1.7\obj\Debug\xipra 1.7.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\VS Projects\xipra 1.7\xipra 1.7\obj\Debug\xipra 1.7.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\VS Projects\xipra 1.7\xipra 1.7\obj\Debug\xipra 1.7.dll
+D:\Microsoft Visual Studio\VS Projects\xipra 1.7\xipra 1.7\obj\Debug\xipra 1.7.pdb

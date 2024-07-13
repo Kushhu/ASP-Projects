@@ -1,0 +1,7 @@
+D:\Microsoft Visual Studio\VS Projects\clg 1.1\clg 1.1\bin\clg 1.1.dll.config
+D:\Microsoft Visual Studio\VS Projects\clg 1.1\clg 1.1\bin\clg 1.1.dll
+D:\Microsoft Visual Studio\VS Projects\clg 1.1\clg 1.1\bin\clg 1.1.pdb
+D:\Microsoft Visual Studio\VS Projects\clg 1.1\clg 1.1\obj\Debug\clg 1.1.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\VS Projects\clg 1.1\clg 1.1\obj\Debug\clg 1.1.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\VS Projects\clg 1.1\clg 1.1\obj\Debug\clg 1.1.dll
+D:\Microsoft Visual Studio\VS Projects\clg 1.1\clg 1.1\obj\Debug\clg 1.1.pdb

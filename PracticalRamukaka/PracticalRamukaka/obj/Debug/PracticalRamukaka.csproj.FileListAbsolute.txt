@@ -1,0 +1,7 @@
+D:\Microsoft Visual Studio\VS Projects\PracticalRamukaka\PracticalRamukaka\bin\PracticalRamukaka.dll.config
+D:\Microsoft Visual Studio\VS Projects\PracticalRamukaka\PracticalRamukaka\bin\PracticalRamukaka.dll
+D:\Microsoft Visual Studio\VS Projects\PracticalRamukaka\PracticalRamukaka\bin\PracticalRamukaka.pdb
+D:\Microsoft Visual Studio\VS Projects\PracticalRamukaka\PracticalRamukaka\obj\Debug\PracticalRamukaka.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\VS Projects\PracticalRamukaka\PracticalRamukaka\obj\Debug\PracticalRamukaka.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\VS Projects\PracticalRamukaka\PracticalRamukaka\obj\Debug\PracticalRamukaka.dll
+D:\Microsoft Visual Studio\VS Projects\PracticalRamukaka\PracticalRamukaka\obj\Debug\PracticalRamukaka.pdb

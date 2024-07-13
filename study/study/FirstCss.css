@@ -1,0 +1,15 @@
+﻿body {
+    background-color:pink;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+
+#underline {
+    text-decoration: underline;
+}
+
+.linethrough {
+    text-decoration: line-through;
+}

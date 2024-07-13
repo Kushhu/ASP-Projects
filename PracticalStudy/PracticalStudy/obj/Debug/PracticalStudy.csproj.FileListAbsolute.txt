@@ -1,0 +1,7 @@
+D:\Microsoft Visual Studio\VS Projects\PracticalStudy\PracticalStudy\bin\PracticalStudy.dll.config
+D:\Microsoft Visual Studio\VS Projects\PracticalStudy\PracticalStudy\bin\PracticalStudy.dll
+D:\Microsoft Visual Studio\VS Projects\PracticalStudy\PracticalStudy\bin\PracticalStudy.pdb
+D:\Microsoft Visual Studio\VS Projects\PracticalStudy\PracticalStudy\obj\Debug\PracticalStudy.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\VS Projects\PracticalStudy\PracticalStudy\obj\Debug\PracticalStudy.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\VS Projects\PracticalStudy\PracticalStudy\obj\Debug\PracticalStudy.dll
+D:\Microsoft Visual Studio\VS Projects\PracticalStudy\PracticalStudy\obj\Debug\PracticalStudy.pdb
